@@ -1,2 +1,2 @@
 # pymtl.github.io
-PyMTL3 Organization Landing Page
+This repo hosts the PyMTL3 organization landing page.
