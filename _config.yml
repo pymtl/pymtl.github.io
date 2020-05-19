@@ -1,5 +1,6 @@
 title: PyMTL3
-description: An Open-Source Hardware Modeling, Generation, Simulation, and Verification Framework
+description: an open-source hardware modeling, generation, simulation, and verification framework
 google_analytics:
-pymtl3_github_repository_url: https://github.com/cornell-brg/pymtl3
+pymtl3_github_repository_url: https://github.com/pymtl/pymtl3
+pymtl3_rtd_url: https://pymtl3.readthedocs.io/en/latest/
 theme: jekyll-theme-cayman
