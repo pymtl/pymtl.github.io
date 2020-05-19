@@ -21,8 +21,10 @@ snippet imports the basic PyMTL3 functionalities and creates two 4-bit objects
 ```
 >>> from pymtl3 import *
 >>> a = Bits4(4)
+>>> a
 Bits4(0x4)
 >>> b = Bits4(3)
+>>> b
 Bits4(0x3)
 ```
 
