@@ -22,7 +22,7 @@
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ PyMTL3 }}</h1>
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="{{ site.pymtl3_github_repository_url }}" class="btn">View on GitHub</a>
       <a href="{{ site.pymtl3_rtd_url }}" class="btn">Readthedocs</a>
